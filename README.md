@@ -1,4 +1,4 @@
-# Amazon Transportation Operations Portfolio
+# transportation-ops-projects
 
 This repository contains **3 data-driven logistics & transportation operations projects** designed to showcase skills relevant to Amazon's **Transportation Operations Center (TOC)** role.
 
